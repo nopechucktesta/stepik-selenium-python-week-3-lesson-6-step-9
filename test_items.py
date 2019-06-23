@@ -10,3 +10,5 @@ class TestCatalogueItem(object):
         # time.sleep(20)
 
         assert add_to_cart_button.is_enabled() is True, "Add to cart button should be enabled"
+
+    # more tests to test catalogue item
